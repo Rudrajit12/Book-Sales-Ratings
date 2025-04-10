@@ -3,10 +3,13 @@
 ### **Project Category**: Exploratory Data Analysis  
 ### **Tools & Technologies**:  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=seaborn&logoColor=white)
+
 **Other Tools**: NumPy, Jupyter Notebooks
 
 ## 🔍 Overview
 This project involves a comprehensive Exploratory Data Analysis (EDA) of a Books Dataset containing over 1,000 entries. It dives deep into sales performance, author success, reader ratings, and evolving publishing trends. The goal is to derive actionable insights that can assist publishers, retailers, and content strategists in understanding the book market dynamics.
+
+![Book Ratings Image](https://drive.google.com/file/d/16GhAOsaYI-iAQzJvBSebBWTYOiMl8qMF/view?usp=sharing)
 
 ---
 
@@ -27,6 +30,7 @@ By exploring these questions, this project offers actionable insights for stakeh
 
 ## 📂 Dataset Description
 **[Download Dataset](https://drive.google.com/file/d/1gqETwP1m8mr_bLlpVir1BXxg-nbbKM0H/view?usp=sharing)**
+
 The dataset contains 1,070 rows and 15 columns and includes the following features:
 
 - **Book Name**
@@ -94,11 +98,29 @@ The project focuses on three primary objectives:
 
 ## 📊 Key Insights & Recommendations
 - **Fiction** books dominate both in terms of units sold and gross revenue.
+
+  ![Units Sold by Genre](https://drive.google.com/file/d/1lpRLUQC-a_ESsQjfkPkksYTXZ8uwK0zI/view?usp=sharing)
+
+  ![Sales by Genres](https://drive.google.com/file/d/1EFg9fEFEFcgOfFD5p1XC3pbXppAfBJys/view?usp=sharing)
+  
 - **Children's books** are priced the highest on average but have lower unit sales.
+
+  ![Average Sales by Genre](https://drive.google.com/file/d/17v93i-xBA7_novqK2Y887Qge4UqfT0JQ/view?usp=sharing)
+  
 - **Top-rated authors** ("Famous" & "Excellent") yield better book ratings and sales.
+
+  ![Author Rating vs Book Rating](https://drive.google.com/file/d/1AkCXuLE8RFsV0rIERzkKtW_7yCWxmdzz/view?usp=sharing)
+  
 - A **positive shift** toward contemporary books (post-2000) was observed.
 - Sales performance doesn't always correlate strongly with revenue — pricing models need revision.
+
+  ![Units sold and Gross Sales over Years](https://drive.google.com/file/d/1yrMeChOK5j9LFOl1BL_mdTCXiEO9s8GL/view?usp=sharing)
+  
 - Publishers with the highest revenue are also those with high unit sales, suggesting strong distribution.
+
+  ![Publishers with most units sold](https://drive.google.com/file/d/1n60cyAJB4HdBFb81P3k8A8wIMynRT_Lm/view?usp=sharing)
+
+  ![Publishers with most sales](https://drive.google.com/file/d/1pfdjrMts_4W3xBVV7D3vm6uImHetw_Vd/view?usp=sharing)
 
 ---
 
