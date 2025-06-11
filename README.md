@@ -147,7 +147,9 @@ The project focuses on three primary objectives:
 ## Resources
 
 - **IPYNB Notebook**: [Colab Link](https://colab.research.google.com/drive/1qts71CzLuJIalFSmwJ3BOb3TB7cHmVAx?usp=sharing)  
-- **GitHub Repository**: [GitHub Link](https://github.com/Rudrajit12/Book-Sales-Ratings) 
+- **GitHub Repository**: [GitHub Link](https://github.com/Rudrajit12/Book-Sales-Ratings)
+- **[Click here to view the interactive Tableau dashboard](https://public.tableau.com/views/BookSalesRatings/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+A data-driven visual analysis of book sales, author performance, and genre trends.
 
 ---
 
